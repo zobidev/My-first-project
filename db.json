@@ -1,0 +1,46 @@
+{
+  "product": [
+    {
+      "id": "5ba9",
+      "imgurl": "https://image.made-in-china.com/226f3j00UVChFPcBlmgv/New-Fashion-Men-s-Shirt-3D-Digital-Clear-Print-High-Quality-Long-Sleeve-Shirts-2023-Spring-Male-Casual-Clothing-Plus-Size-4XL.webp",
+      "category": "Men's Clothes",
+      "description": "Stylish T-shirts Stylish T-shirts Stylish T-shirtsStylish T-shirtsStylish T-shirts",
+      "price": "52.99"
+    },
+    {
+      "id": "6de1",
+      "imgurl": "https://m.media-amazon.com/images/I/618aC-TBRlL.jpg",
+      "category": "Men's Clothes",
+      "description": "t-shirts",
+      "price": "9.99"
+    },
+    {
+      "id": "caed",
+      "imgurl": "https://i5.walmartimages.com/seo/Men-Fashion-Loose-Lapel-Zipper-3D-Digital-Printing-Long-Sleeve-Top-T-Shirt-Shirt-Top_b9898b04-2846-48cc-a870-10c974eafe34.9cc683628a7496b9aee757ebdcd7a449.jpeg",
+      "category": "Men's Clothes",
+      "description": "like",
+      "price": "15.99"
+    },
+    {
+      "id": "0d3f",
+      "imgurl": "https://i.pinimg.com/736x/5a/a5/70/5aa57083c7f4492b3fdedc0ae259dce4.jpg",
+      "category": "Jewelery",
+      "description": "like",
+      "price": "8888.99"
+    },
+    {
+      "id": "7541",
+      "imgurl": "https://sumanthkumar.com/wp-content/uploads/2021/06/Prakruthi-4-.jpg",
+      "category": "Jewelery",
+      "description": "like",
+      "price": "99999.99"
+    },
+    {
+      "id": "bdb9",
+      "imgurl": "https://static.wixstatic.com/media/cda177_6dc240f4853346aca627dfac675e4df0.png/v1/fit/w_500,h_500,q_90/file.png",
+      "category": "Other",
+      "description": "Like",
+      "price": "45.8"
+    }
+  ]
+}
